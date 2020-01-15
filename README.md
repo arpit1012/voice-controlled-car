@@ -8,3 +8,4 @@ For voice recognition, we used the porcupine library. We trained the keywords li
 
 We made the bot chassis using 5mm acrylic sheet 25cm x 20cm, used two 300 rpm 12v dc motor, a L298N motor driver, arduino uno, a 11.1V 2200mAh Lipo battery, a power bank to power the arduino.
 
+LINK FOR VIDEO:---https://drive.google.com/open?id=1Inr89jlYoXPF-VwdebUddcnwaoHOgMY3

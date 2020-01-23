@@ -1,4 +1,4 @@
-#Humanoid RAMAN - 4i Lab IITG
+
 #Import libraries
 import os
 import struct

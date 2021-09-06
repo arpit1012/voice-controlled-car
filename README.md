@@ -1,6 +1,7 @@
 # Voice-Controlled-Robot
 The bot recognizes basic voice commands like move forward, move backward, turn left, turn right. Also, it has obstacle avoidance.
 That is, it can avoid obstacles in between its path. We used ultrasonic sensors in front and back of the bot to accomplish this task.
+also bot support the solving the maze using the voice command. the wall following algorithm is used.
 
 It also has a 180 degree radar system with range of around 1.5 feet, we used Processing IDE for diplaying curves and lines, a 12g servo motor with a ultrasonic sensor attached on it. 
 
